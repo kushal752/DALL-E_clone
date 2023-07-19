@@ -1,6 +1,6 @@
 import React, { useState, useEffect} from 'react'
 
-import { Loader, Card, FornField } from '../components'
+import { Loader, Card, FormField } from '../components'
 const Home = () => {
   return (
     <div>Home</div>
